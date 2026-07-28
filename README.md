@@ -126,10 +126,4 @@ The best-performing model (based on accuracy and classification report metrics) 
 
 ## 🌐 Streamlit Deployment Link
 
-🔗 **[Live App](https://your-app-name.streamlit.app)** *(replace with your actual Streamlit Community Cloud / hosting URL once deployed)*
-
----
-
-## 📄 License
-
-This project was developed as a graduation project. Add a license here if you plan to open-source it (e.g., MIT).
+🔗 **[Live App](https://your-app-name.streamlit.app)** 
